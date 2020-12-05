@@ -1,2 +1,2 @@
 # readme.md
-# followme.md
+# followme
